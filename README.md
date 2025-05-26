@@ -27,8 +27,8 @@ A simple HTTP server that converts Markdown (`.md`) files to HTML and serves the
 
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/your-username/your-repo-name.git
-    cd your-repo-name
+    git clone https://github.com/Lewvy/MdToHTML
+    cd MdToHTML
     ```
 2.  Run the server (update this command depending on your language/runtime):
     ```bash
