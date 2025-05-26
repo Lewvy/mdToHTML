@@ -37,3 +37,5 @@ A simple HTTP server that converts Markdown (`.md`) files to HTML and serves the
 3.  Open the app in your browser:
     [http://localhost:8080](http://localhost:8080)
 
+## Note:
+This currently only works for headings and list elements.
